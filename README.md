@@ -20,7 +20,7 @@
 
 | 🏆 Best Macro ROC-AUC | 🧠 Backbone | 🎯 Targets | 🗂️ Training Studies |
 |:---:|:---:|:---:|:---:|
-| **0.8168** | OrthoFoundation (DINOv3) | 12 abnormalities | 4,407 |
+| **0.8257** | OrthoFoundation (DINOv3) | 12 abnormalities | 4,407 |
 
 </div>
 
